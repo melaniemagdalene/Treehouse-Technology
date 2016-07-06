@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  due_at: 2016-06-24 13:58:02
+  todo_list_id: 
+
+two:
+  title: MyString
+  due_at: 2016-06-24 13:58:02
+  todo_list_id: 
